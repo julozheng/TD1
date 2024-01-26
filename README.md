@@ -1,4 +1,6 @@
 # TD1
+Exercice 5 :
+ZHENG Julien ROBERT Thomas ZITOUNI Eslem VARACCA Maxime
 <<<<<<< HEAD
 <<<<<<< HEAD
 You can have data without information
