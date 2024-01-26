@@ -1,5 +1,6 @@
 # TD1
 <<<<<<< HEAD
+<<<<<<< HEAD
 You can have data without information
 but you cannot have information without data
 				*
@@ -13,3 +14,10 @@ Reviens
 Hello world
 Ciao
 >>>>>>> ROBERT_Thomas
+=======
+Salut
+Maxime
+On
+Te
+Deteste
+>>>>>>> ZHENG_Julien
